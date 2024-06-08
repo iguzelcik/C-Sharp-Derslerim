@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\bin\Debug\Uygulama3_16122021_Struct.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\bin\Debug\Uygulama3_16122021_Struct.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\bin\Debug\Uygulama3_16122021_Struct.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\obj\Debug\Uygulama3_16122021_Struct.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\obj\Debug\Uygulama3_16122021_Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\obj\Debug\Uygulama3_16122021_Struct.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\obj\Debug\Uygulama3_16122021_Struct.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama3_16122021_Struct\obj\Debug\Uygulama3_16122021_Struct.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama13_15122021_Virtual_Sanal_Method", "Uygulama13_15122021_Virtual_Sanal_Method.csproj", "{03F85556-994D-4547-8CF9-9AC17BD8FE90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F85556-994D-4547-8CF9-9AC17BD8FE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F85556-994D-4547-8CF9-9AC17BD8FE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F85556-994D-4547-8CF9-9AC17BD8FE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F85556-994D-4547-8CF9-9AC17BD8FE90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65310987-752A-4A00-9DF3-39D751526BA0}
+	EndGlobalSection
+EndGlobal

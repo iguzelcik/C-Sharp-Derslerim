@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\bin\Debug\Uygulama10_15122021_Interface_Arayuz.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\bin\Debug\Uygulama10_15122021_Interface_Arayuz.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\bin\Debug\Uygulama10_15122021_Interface_Arayuz.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\obj\Debug\Uygulama10_15122021_Interface_Arayuz.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\obj\Debug\Uygulama10_15122021_Interface_Arayuz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\obj\Debug\Uygulama10_15122021_Interface_Arayuz.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\obj\Debug\Uygulama10_15122021_Interface_Arayuz.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama10_15122021_Interface_Arayuz\obj\Debug\Uygulama10_15122021_Interface_Arayuz.pdb

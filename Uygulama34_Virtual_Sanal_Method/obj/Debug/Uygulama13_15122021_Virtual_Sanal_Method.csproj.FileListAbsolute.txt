@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\bin\Debug\Uygulama13_15122021_Virtual_Sanal_Method.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\bin\Debug\Uygulama13_15122021_Virtual_Sanal_Method.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\bin\Debug\Uygulama13_15122021_Virtual_Sanal_Method.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\obj\Debug\Uygulama13_15122021_Virtual_Sanal_Method.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\obj\Debug\Uygulama13_15122021_Virtual_Sanal_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\obj\Debug\Uygulama13_15122021_Virtual_Sanal_Method.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\obj\Debug\Uygulama13_15122021_Virtual_Sanal_Method.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama13_15122021_Virtual_Sanal_Method\obj\Debug\Uygulama13_15122021_Virtual_Sanal_Method.pdb

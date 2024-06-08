@@ -1,0 +1,16 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\bin\Debug\Uygulama2_15122021_Delegate.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\bin\Debug\Uygulama2_15122021_Delegate.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\bin\Debug\Uygulama2_15122021_Delegate.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\bin\Debug\Uygulama2_15122021_Delegate.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\bin\Debug\Uygulama2_15122021_Delegate.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\bin\Debug\Uygulama2_15122021_Delegate.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama2_15122021_Delegate\obj\Debug\Uygulama2_15122021_Delegate.pdb

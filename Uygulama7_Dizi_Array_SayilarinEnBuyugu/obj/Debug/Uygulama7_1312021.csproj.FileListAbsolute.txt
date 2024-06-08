@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\bin\Debug\Uygulama7_1312021.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\bin\Debug\Uygulama7_1312021.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\bin\Debug\Uygulama7_1312021.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\obj\Debug\Uygulama7_1312021.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\obj\Debug\Uygulama7_1312021.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\obj\Debug\Uygulama7_1312021.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\obj\Debug\Uygulama7_1312021.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\Uygulama7_1312021\obj\Debug\Uygulama7_1312021.pdb

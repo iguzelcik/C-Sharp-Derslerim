@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\bin\Debug\Uygulama10_16122021_enum.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\bin\Debug\Uygulama10_16122021_enum.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\bin\Debug\Uygulama10_16122021_enum.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\obj\Debug\Uygulama10_16122021_enum.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\obj\Debug\Uygulama10_16122021_enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\obj\Debug\Uygulama10_16122021_enum.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\obj\Debug\Uygulama10_16122021_enum.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama10_16122021_enum\obj\Debug\Uygulama10_16122021_enum.pdb

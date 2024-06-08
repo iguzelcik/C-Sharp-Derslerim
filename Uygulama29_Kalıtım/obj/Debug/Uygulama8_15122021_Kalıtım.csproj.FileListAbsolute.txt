@@ -1,0 +1,7 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama8_15122021_Kalıtım\bin\Debug\Uygulama8_15122021_Kalıtım.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama8_15122021_Kalıtım\bin\Debug\Uygulama8_15122021_Kalıtım.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama8_15122021_Kalıtım\bin\Debug\Uygulama8_15122021_Kalıtım.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama8_15122021_Kalıtım\obj\Debug\Uygulama8_15122021_Kalıtım.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama8_15122021_Kalıtım\obj\Debug\Uygulama8_15122021_Kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama8_15122021_Kalıtım\obj\Debug\Uygulama8_15122021_Kalıtım.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama8_15122021_Kalıtım\obj\Debug\Uygulama8_15122021_Kalıtım.pdb

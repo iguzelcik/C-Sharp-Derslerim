@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uygulama5_16122021_FormUygulamasi/1.0.0": {
+        "runtime": {
+          "Uygulama5_16122021_FormUygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uygulama5_16122021_FormUygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\obj\Debug\Uygulama4_15122021_Hata_istisna.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\obj\Debug\Uygulama4_15122021_Hata_istisna.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\obj\Debug\Uygulama4_15122021_Hata_istisna.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\bin\Debug\Uygulama4_15122021_Hata_istisna.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\bin\Debug\Uygulama4_15122021_Hata_istisna.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\bin\Debug\Uygulama4_15122021_Hata_istisna.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\obj\Debug\Uygulama4_15122021_Hata_istisna.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama4_15122021_Hata_istisna\obj\Debug\Uygulama4_15122021_Hata_istisna.pdb

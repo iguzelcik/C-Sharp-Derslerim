@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\bin\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\bin\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\bin\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\obj\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\obj\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\obj\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\obj\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama8_15122021_Kolleksiyonlar_Listeler\obj\Debug\Uygulama8_15122021_Kolleksiyonlar_Listeler.pdb

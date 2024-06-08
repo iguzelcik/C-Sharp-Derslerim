@@ -1,0 +1,8 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\bin\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\bin\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\bin\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\obj\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\obj\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\obj\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\obj\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\15.12.2021\Uygulama11_15122021_Interface_arayuz_cokluKalitim\obj\Debug\Uygulama11_15122021_Interface_arayuz_cokluKalitim.pdb

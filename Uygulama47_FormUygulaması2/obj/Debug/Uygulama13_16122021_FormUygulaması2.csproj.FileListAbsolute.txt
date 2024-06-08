@@ -1,0 +1,11 @@
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\bin\Debug\Uygulama13_16122021_FormUygulaması2.exe.config
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\bin\Debug\Uygulama13_16122021_FormUygulaması2.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\bin\Debug\Uygulama13_16122021_FormUygulaması2.pdb
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.csproj.AssemblyReference.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.Form1.resources
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.Properties.Resources.resources
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.csproj.GenerateResource.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.csproj.CoreCompileInputs.cache
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.exe
+C:\Users\ilker.guzelcik\Desktop\C#\uygulamalar\Dersler\16.12.2021\Uygulama13_16122021_FormUygulaması2\obj\Debug\Uygulama13_16122021_FormUygulaması2.pdb
